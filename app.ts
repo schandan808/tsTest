@@ -8,7 +8,6 @@ import fileupload from 'express-fileupload'
 
 import path from 'path'
 const app = express()
-// const port = 4000
 
 
 app.use(express.static("public"))
